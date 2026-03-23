@@ -1,0 +1,6 @@
+# AeroTCG – Aerospace Software Test Case Generator
+# All dependencies are installable offline (no ML model download required)
+
+streamlit>=1.32.0
+pandas>=2.0.0
+openpyxl>=3.1.0        # for xlsx export (optional)
